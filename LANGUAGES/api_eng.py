@@ -5,14 +5,14 @@ import uuid
 import joblib
 import os
 from pydub import AudioSegment
-from feature_extractor_eng import extract_features
+from LANGUAGES.feature_extractor_eng import extract_features
 
 API_KEY = "hackathon_voice_ai_2026"
 
 app = FastAPI()
 
-model = joblib.load("model/voice_detector_NEW.pkl")
-scaler = joblib.load("model/scaler_NEW.pkl")
+model = joblib.load("LANGUAGES/model/voice_detector_NEW.pkl")
+scaler = joblib.load("LANGUAGES/model/scaler_NEW.pkl")
 
 class VoiceRequest(BaseModel):
     language: str
