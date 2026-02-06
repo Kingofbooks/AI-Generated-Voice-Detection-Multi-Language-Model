@@ -10,7 +10,7 @@ Built for hackathon deployment with real-time inference and public API access.
 
 ### Base URL
 
-https://ai-generated-voice-detection-multi-gzld.onrender.com
+[https://ai-generated-voice-detection-multi-gzld.onrender.com](https://ai-generated-voice-detection-multi-gzld.onrender.com/docs#/)
 
 ---
 
