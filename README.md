@@ -116,6 +116,7 @@ x-api-key: hackathon_voice_ai_2026
 ---
 
 ### 🗂️ Project Structure
+
 AI-Generated-Voice-Detection/
 │
 ├── LANGUAGES/
@@ -175,10 +176,17 @@ uvicorn LANGUAGES.api_eng:app --reload
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author(Full-code)
 
 Aryan  
-Hackathon Project – 2026  
+Hackathon Project – 2026 
+
+---
+
+## 👨‍💻 Co-Author(Dataset)
+
+Atharsh Bharathkumar  
+Hackathon Project – 2026 
 
 ---
 
