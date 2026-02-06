@@ -182,14 +182,14 @@ uvicorn LANGUAGES.api_eng:app --reload
 
 ---
 
-## 👨‍💻 Author(Full-code)
+## 👨‍💻 Author(Full-codebase-Creation)
 
 Aryan  
 Hackathon Project – 2026 
 
 ---
 
-## 👨‍💻 Co-Author(Dataset)
+## 👨‍💻 Co-Author(Dataset-Creation)
 
 Atharsh Bharathkumar  
 Hackathon Project – 2026 
