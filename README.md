@@ -14,6 +14,12 @@ https://ai-generated-voice-detection-multi-gzld.onrender.com
 
 ---
 
+### OUTPUT
+
+<img width="1207" height="934" alt="Image" src="https://github.com/user-attachments/assets/5b811c30-daf4-4960-8b4f-f28adb5ec107" />
+
+---
+
 ## 🔐 Authentication
 
 All endpoints require an API key via header:
